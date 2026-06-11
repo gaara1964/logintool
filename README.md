@@ -126,7 +126,7 @@ Passionate Developer focused on desktop applications, automation tools, emulator
 - 🌐 Website: https://logintool.ff1964.me
 - 💻 GitHub: https://github.com/gaara1964
 - 📧 Email: shaikhsaadsultanali2004@gmail.com
-- 💬 Discord: Add Your Discord Link Here
+- 💬 Discord: @gaara.1964
 
 ---
 
