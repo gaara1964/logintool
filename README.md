@@ -97,23 +97,6 @@ Real-time logs showing:
 
 ---
 
-## 📂 Project Structure
-
-```text
-1964-Login-Tool/
-│
-├── README.md
-│
-├── images/
-│   ├── login-screen.png
-│   └── dashboard.png
-│
-├── src/
-│
-└── LICENSE
-```
-
----
 
 ## ⚙️ Requirements
 
