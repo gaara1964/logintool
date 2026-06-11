@@ -1,76 +1,174 @@
-# 1964 Login Tool
+# 🚀 1964 Login Tool
 
-A lightweight desktop utility designed for secure access-token authentication and emulator connectivity management.
+<div align="center">
 
-![Login Screen](images/login-screen.png)
+### Secure Authentication & Emulator Management Tool
 
-![Dashboard](images/dashboard.png)
+Website: https://logintool.ff1964.me
+
+Developed by **Shaikh Muhammad Saad Sultanali (1964)**
+
+</div>
 
 ---
 
-## Features
+## 📸 Preview
 
-- 🔐 Access Token Authentication
-- 🖥️ Emulator Connection Management
-- 💾 Save and Manage Tokens
-- 📋 Real-Time Console Logs
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### Login Screen
+<img src="images/login-screen.png" width="100%"/>
+
+</td>
+
+<td width="50%">
+
+### Dashboard
+<img src="images/dashboard.png" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## ✨ Features
+
+- 🔐 Secure Login Authentication
+- 🎫 Access Token System
+- 💾 Save & Manage Tokens
+- 🖥️ Emulator Connection Support
 - 🔄 Automatic Token Detection
 - 🌐 API Configuration Updates
+- 📋 Real-Time Console Logs
 - 👤 Account Information Display
 - ⏳ Token Expiry Tracking
+- ⚡ Lightweight & Fast Interface
 
 ---
 
-## Overview
+## 📖 About
 
-1964 Login Tool provides a simple and clean interface for authenticating users through access tokens and managing emulator connections.
+1964 Login Tool is a desktop application designed to provide secure access-token authentication and emulator management through a clean and user-friendly interface.
 
-The application automatically detects token updates, verifies API configurations, fetches account information, and displays detailed logs directly within the console.
+The tool automatically:
 
----
-
-## Screenshots
-
-### Login Interface
-
-The login screen allows users to authenticate using their provided credentials or access token.
-
-![Login Screen](images/login-screen.png)
-
-### Main Dashboard
-
-After successful authentication, users gain access to token management, emulator controls, and system logs.
-
-![Dashboard](images/dashboard.png)
+- Detects newly generated tokens
+- Updates API configurations
+- Retrieves account information
+- Displays live status logs
+- Manages emulator connectivity
 
 ---
 
-## Main Functions
+## 🖥️ Dashboard Functions
 
 ### Authentication
-- Login using provided credentials.
-- Secure token-based access system.
-- Save tokens for future sessions.
+- Login using credentials
+- Access token verification
+- Secure account access
 
-### Emulator Integration
-- Connect emulator instantly.
-- Disconnect emulator safely.
-- Manage connection status directly from the dashboard.
+### Token Management
+- Save Access Tokens
+- Update Tokens
+- Auto Token Detection
+
+### Emulator Control
+- Connect Emulator
+- Disconnect Emulator
+- Connection Status Monitoring
 
 ### Console Monitoring
-- Live activity logs.
-- Token detection notifications.
-- API update status.
-- User information and token expiry details.
+Real-time logs showing:
+
+```text
+[*] Token detection
+[*] API update checks
+[+] Configuration updates
+[*] User information
+[*] Expiry status
+```
 
 ---
 
-## Example Console Output
+## 📂 Project Structure
 
 ```text
-[*] Detected new token
-[*] Checking for API updates...
-[+] API data fetched successfully
-[*] Configuration updated
-[*] User authenticated
-[*] Token expiry information loaded
+1964-Login-Tool/
+│
+├── README.md
+│
+├── images/
+│   ├── login-screen.png
+│   └── dashboard.png
+│
+├── src/
+│
+└── LICENSE
+```
+
+---
+
+## ⚙️ Requirements
+
+- Windows 10/11
+- Internet Connection
+- Valid Access Token
+- Supported Android Emulator
+
+---
+
+## 🌐 Official Website
+
+Visit the official website:
+
+### https://logintool.ff1964.me
+
+---
+
+## 👨‍💻 Developer
+
+### Shaikh Muhammad Saad Sultanali (1964)
+
+Passionate Developer focused on desktop applications, automation tools, emulator integrations, and modern software solutions.
+
+### Links
+
+- 🌐 Website: https://logintool.ff1964.me
+- 💻 GitHub: https://github.com/gaara1964
+- 📧 Email: shaikhsaadsultanali2004@gmail.com
+- 💬 Discord: Add Your Discord Link Here
+
+---
+
+## 🤝 Support
+
+Need access or assistance?
+
+- Visit the official website
+- Contact the developer
+- Join the Discord community
+
+---
+
+## ⚠️ Disclaimer
+
+This software is provided for educational and development purposes only.
+
+Users are responsible for ensuring compliance with all applicable software terms, policies, and regulations.
+
+---
+
+<div align="center">
+
+### Made with ❤️ by 1964
+
+**https://logintool.ff1964.me**
+
+</div>
